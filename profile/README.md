@@ -1,6 +1,6 @@
 # Overview
 
-VERBAVOX 🔠 is an innovative application tailored for English learners. It integrates advanced AI technologies to enhance listening, comprehension, and writing skills. By combining AI-generated content, text-to-speech (TTS), and accuracy evaluation, it provides an engaging and effective way to practice English.
+English By Ear 🔠 is an innovative application tailored for English learners. It integrates advanced AI technologies to enhance listening, comprehension, and writing skills. By combining AI-generated content, text-to-speech (TTS), and accuracy evaluation, it provides an engaging and effective way to practice English.
 
 ## Features
 
@@ -25,7 +25,7 @@ VERBAVOX 🔠 is an innovative application tailored for English learners. It int
    - Overall Score: A percentage-based score to motivate learners.
 
 6. Progress Tracking
-   VERBAVOX tracks user performance over time, offering insights into improvement and areas needing focus. This feature ensures learners can monitor their growth effectively.
+   English By Ear tracks user performance over time, offering insights into improvement and areas needing focus. This feature ensures learners can monitor their growth effectively.
 
 ## Benefits
 
